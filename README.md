@@ -12,6 +12,6 @@
   </li>
 </ul>
 
-<h2>J'ai des compétences web avec les languages suivant:</h2>
+J'ai des compétences web avec les languages suivant:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
