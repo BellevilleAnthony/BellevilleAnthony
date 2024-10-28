@@ -1,9 +1,7 @@
-## Hi there 👋
+Salut,
 
 <!--
 **BellevilleAnthony/BellevilleAnthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Je travaille actuellement sur le dévelloppement de mes technique et de ma compagnie avec un ami
 - 🌱 J apprend actuellement MySql avec un ami qui fait du back-end
