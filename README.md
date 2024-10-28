@@ -1,6 +1,6 @@
 Salut,
 
-- 🔭 Je travaille actuellement sur le dévelloppement de mes technique et de ma compagnie avec un ami
+- 🔭 Je travaille sur le dévelloppement de mes technique et de ma compagnie avec un ami
 - 🌱 J apprend actuellement MySql avec un ami qui fait du back-end et j'ai de bonne base en php
 - 📫 Comment me joindre: info@abelleville.dectim.ca
 
