@@ -6,4 +6,5 @@ Salut,
 
 
 J'ai des compétences web avec les languages suivant:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
